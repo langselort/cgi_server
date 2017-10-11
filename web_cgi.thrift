@@ -13,6 +13,6 @@ struct GeneralRequest {
     3: string data,
 }
 
-service WebCgi {
+service WebCgiService {
   GeneralResponse transport (1: GeneralRequest request),
 }
