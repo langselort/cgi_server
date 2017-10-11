@@ -1,0 +1,3 @@
+[submodule "img_server"]
+	path = img_server
+	url = git@github.com:JerryJiangjjw/img_server.git
